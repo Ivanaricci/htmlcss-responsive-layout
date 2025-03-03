@@ -24,4 +24,8 @@
     header h2{
         font-size: 35px;
     }
+
+    .btn{
+        padding: 10px 50px;
+    }
 }
