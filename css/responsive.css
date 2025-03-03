@@ -67,5 +67,13 @@
         flex-grow: 1;
     }
 
+    .social-networks .label{
+        display: inline;
+        font-size: 13px;
+        vertical-align: middle;
+    }
 
+    .btn{
+        padding: 10px 40px;
+    }
 }
