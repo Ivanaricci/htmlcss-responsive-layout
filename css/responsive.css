@@ -45,3 +45,15 @@
         column-gap: 90px;
     }
 }
+
+@media screen and (min-width: 992px){
+    header h2{
+        font-size: 45px;
+    }
+
+    .quick-notes ul{
+        display: inline-block
+}
+
+
+
