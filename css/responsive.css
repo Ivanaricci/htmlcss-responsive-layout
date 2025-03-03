@@ -86,3 +86,13 @@
         text-align: left;
     }
 }
+
+
+/* Bonus */
+
+@media screen and (min-width: 576px){
+    .clearfix img{
+        float: left;
+        margin-right: 20px;
+    }
+}
