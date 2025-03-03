@@ -53,7 +53,19 @@
 
     .quick-notes ul{
         display: inline-block
+    }
+
+    .recipe-card{
+        display: flex;
+    }
+
+    .recipe-video{
+        flex-basis: 70%;
+    }
+
+    .recipe-info{
+        flex-grow: 1;
+    }
+
+
 }
-
-
-
