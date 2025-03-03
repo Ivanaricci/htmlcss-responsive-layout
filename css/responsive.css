@@ -20,4 +20,8 @@
     .recipe-origin{
         display: inline ;
     }
+
+    header h2{
+        font-size: 35px;
+    }
 }
