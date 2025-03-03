@@ -12,4 +12,8 @@
     #topbar{
         justify-content: flex-start;
     }
+
+    main{
+        padding: 35px;
+    }
 }
