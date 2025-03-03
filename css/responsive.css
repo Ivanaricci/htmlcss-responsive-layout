@@ -37,4 +37,11 @@
         float: left;
         margin-right: 20px;
     }
+
+    .quick-notes ul{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        column-gap: 90px;
+    }
 }
